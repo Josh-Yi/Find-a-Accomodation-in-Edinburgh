@@ -5,4 +5,4 @@ A more difficult task than applying to Edinburgh University's MSc progarm is to 
 ---
 ## Run
 
-bash ./go.sh
+> bash ./go.sh
